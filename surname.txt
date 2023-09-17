@@ -1,0 +1,3 @@
+hiii my name is sahul and my surname is mane 
+i am learinng git bash
+
