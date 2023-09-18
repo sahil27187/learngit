@@ -1,1 +1,2 @@
-hiii i will teach you git basic commands 
+hiii i will teach you git basic commands
+these line is added so merge it please 
